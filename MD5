@@ -1,0 +1,14 @@
+0b4cb95157f208a5f528b4f4034a49d1 *DESCRIPTION
+9ca1468d9fa9d7bf6d0580fbc40b96dc *NAMESPACE
+91ca2faac19266e08ba0d6da9423ea52 *R/RcppExports.R
+e5ee2abe97a0fd92b120f8fd498a96b7 *R/bvarsv.R
+904c6bb9810b66c1dfe505807251eac0 *data/usmacro.RData
+2f1347cd05f7232f20b33a3a4f10ca39 *man/bvar.sv.tvp.Rd
+ae0217c5e658f9e0c1919793acff80fd *man/bvarsv-package.Rd
+0d69622f9af79110b40455e0d8689479 *man/helpers.Rd
+9cc0f3b034a5f7f2b14393191d340579 *man/sim.var1.sv.tvp.Rd
+da25d449a3734de204e0a5b4332a3926 *man/usmacro.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
+f87a6bdb54e994be21345b5cb41c647f *src/RcppExports.cpp
+a8b136bd5470d3e322948a9bf076ec37 *src/bvarsv.cpp
